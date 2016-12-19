@@ -29,9 +29,6 @@
 
 如有转载，请注明出处。
 
-访问量：
-.. image:: http://monster.gostats.cn/bin/count/a_488081/t_4/i_1/z_0/show_hits/counter.png
- :width: 200 
- :height: 50
+访问量：http://monster.gostats.cn/bin/count/a_488081/t_4/i_1/z_0/show_hits/counter.png
 
 
